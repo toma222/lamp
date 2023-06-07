@@ -1,0 +1,2 @@
+
+An Audio stack that you can pull out of so that all audio recordings are in one place in memory
